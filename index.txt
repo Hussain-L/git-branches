@@ -1,1 +1,2 @@
 This is index from remote
+added this from local 
